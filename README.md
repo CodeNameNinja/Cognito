@@ -1,1 +1,5 @@
 # Cognito
+
+```bash
+npm ci
+```
